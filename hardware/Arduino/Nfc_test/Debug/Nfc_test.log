@@ -1,0 +1,32 @@
+﻿Build started 30/10/2015 09:32:22.
+     1>Project "D:\Documents\University\AINT 354\Hardware\LookingGlass\Nfc_test\Nfc_test.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Arduino\hardware\arduino\avr\cores\arduino" /I"C:\Program Files (x86)\Arduino\hardware\arduino\avr\variants\standard" /I"D:\Documents\University\AINT 354\Hardware\LookingGlass\Nfc_test" /I"C:\Program Files (x86)\Arduino\libraries" /I"C:\Program Files (x86)\Arduino\hardware\arduino\avr\libraries" /I"C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\khmemc5a.prk\Micro Platforms\default\debuggers" /IC:\Users\lonne\Documents\Arduino\libraries /I"C:\Program Files (x86)\Arduino\hardware\tools\avr/avr/include/" /I"C:\Program Files (x86)\Arduino\hardware\tools\avr//avr/include/avr/" /I"C:\Program Files (x86)\Arduino\hardware\tools\avr/lib\gcc\avr\4.8.1\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D __AVR_ATmega328p__ /D __AVR_ATmega328P__ /D _VMDEBUG=1 /D F_CPU=16000000L /D ARDUINO=165 /D ARDUINO_AVR_UNO /D ARDUINO_ARCH_AVR /D __cplusplus /D _MBCS /X /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /FI"D:\Documents\University\AINT 354\Hardware\LookingGlass\Nfc_test\__vm\.Nfc_test.vsarduino.h" /analyze- /errorReport:prompt Looking_glass.cpp
+         Looking_glass.cpp
+     1>c1xx : warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+     1>d:\documents\university\aint 354\hardware\lookingglass\nfc_test\__vm\.nfc_test.vsarduino.h(13): warning C4005: '__AVR_ATmega328p__': macro redefinition
+         d:\documents\university\aint 354\hardware\lookingglass\nfc_test\__vm\.nfc_test.vsarduino.h(13): note: command-line arguments:  see previous definition of '__AVR_ATmega328p__'
+     1>d:\documents\university\aint 354\hardware\lookingglass\nfc_test\__vm\.nfc_test.vsarduino.h(14): warning C4005: '__AVR_ATmega328P__': macro redefinition
+         d:\documents\university\aint 354\hardware\lookingglass\nfc_test\__vm\.nfc_test.vsarduino.h(14): note: command-line arguments:  see previous definition of '__AVR_ATmega328P__'
+     1>d:\documents\university\aint 354\hardware\lookingglass\nfc_test\__vm\.nfc_test.vsarduino.h(18): warning C4005: 'ARDUINO_AVR_UNO': macro redefinition
+         d:\documents\university\aint 354\hardware\lookingglass\nfc_test\__vm\.nfc_test.vsarduino.h(18): note: command-line arguments:  see previous definition of 'ARDUINO_AVR_UNO'
+     1>d:\documents\university\aint 354\hardware\lookingglass\nfc_test\__vm\.nfc_test.vsarduino.h(19): warning C4005: 'ARDUINO_ARCH_AVR': macro redefinition
+         d:\documents\university\aint 354\hardware\lookingglass\nfc_test\__vm\.nfc_test.vsarduino.h(19): note: command-line arguments:  see previous definition of 'ARDUINO_ARCH_AVR'
+     1>d:\documents\university\aint 354\hardware\lookingglass\nfc_test\__vm\.nfc_test.vsarduino.h(20): warning C4117: macro name '__cplusplus' is reserved, '#define' ignored
+     1>c:\program files (x86)\arduino\hardware\tools\avr\lib\gcc\avr\4.8.1\include\stddef.h(212): error C2371: 'size_t': redefinition; different basic types
+         d:\documents\university\aint 354\hardware\lookingglass\nfc_test\predefined c++ types (compiler internal)(16): note: see declaration of 'size_t'
+     1>c:\program files (x86)\arduino\hardware\tools\avr\avr\include\math.h(364): warning C4002: too many actual parameters for macro '__asm__'
+     1>c:\program files (x86)\arduino\hardware\tools\avr\avr\include\avr\pgmspace.h(1187): error C2446: ':': no conversion from 'size_t' to 'const char *'
+         c:\program files (x86)\arduino\hardware\tools\avr\avr\include\avr\pgmspace.h(1187): note: Conversion from integral type to pointer type requires reinterpret_cast, C-style cast or function-style cast
+     1>c:\program files (x86)\arduino\hardware\arduino\avr\cores\arduino\arduino.h(118): error C2371: 'byte': redefinition; different basic types
+         d:\documents\university\aint 354\hardware\lookingglass\nfc_test\__vm\.nfc_test.vsarduino.h(65): note: see declaration of 'byte'
+     1>c:\program files (x86)\arduino\hardware\arduino\avr\cores\arduino\hardwareserial.h(127): error C2535: 'size_t HardwareSerial::write(uint8_t)': member function already defined or declared
+         c:\program files (x86)\arduino\hardware\arduino\avr\cores\arduino\hardwareserial.h(124): note: see declaration of 'HardwareSerial::write'
+     1>c:\program files (x86)\arduino\hardware\tools\avr\avr\include\util\delay_basic.h(88): error C2065: '__asm__': undeclared identifier
+     1>c:\program files (x86)\arduino\hardware\tools\avr\avr\include\util\delay_basic.h(110): error C2065: '__asm__': undeclared identifier
+     1>c:\program files (x86)\arduino\hardware\tools\avr\avr\include\util\delay.h(95): fatal error C1021: invalid preprocessor command 'warning'
+     1>Done Building Project "D:\Documents\University\AINT 354\Hardware\LookingGlass\Nfc_test\Nfc_test.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.52

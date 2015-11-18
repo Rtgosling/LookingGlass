@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Ms. Fluff",
+    "colour" : "Nicelands",
+    "type" : "Nicelands Creature",
+    "description" : "While Ms. Fluff has exactly 7 Damage on it, it has +7 ATK",
+    "values" : {
+        "cost" : 2,
+        "attack" : 2,
+        "defense" : 10
+    }

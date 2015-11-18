@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Apple Pieclops",
+    "colour" : "Nicelands",
+    "type" : "Nicelands Creature",
+    "description" : "At the start of your turn, you may heal or deal 1 Damage to each Creature you control. (Choose for each creature.)",
+    "values" : {
+        "cost" : 2,
+        "attack" : 1,
+        "defense" : 7
+    }

@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "",
+    "colour" : "",
+    "type" : "",
+    "description" : "",
+    "values" : {
+        "cost" : ,
+        "attack" : ,
+        "defense" : 
+    }

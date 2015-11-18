@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Travelin' Skeleton",
+    "colour" : "Blue Plains",
+    "type" : "Plue Plains Creature",
+    "description" : "FLOOP >>> Travelin' Skeleton and another Creature you control change Lanes with each other.",
+    "values" : {
+        "cost" : 1,
+        "attack" : 0,
+        "defense" : 8
+    }

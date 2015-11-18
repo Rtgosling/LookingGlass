@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Snakemint",
+    "colour" : "Nicelands",
+    "type" : "Nicelands Creature",
+    "description" : "When Snakemint deals Damage to an opposing player, you heal that many Hit Points. (Can't got over 25.)",
+    "values" : {
+        "cost" : 1,
+        "attack" : 1,
+        "defense" 7: 
+    }

@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Squatting Bald Man",
+    "colour" : "Useless Swamp",
+    "type" : "Useless Swamp Creature",
+    "description" : "Discard a card >>> Heal 1 Damage from Squatting Bald Man. (Use any number of times during each of your turns.)",
+    "values" : {
+        "cost" : 1,
+        "attack" : 2,
+        "defense" : 7
+    }

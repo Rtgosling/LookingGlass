@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Rainbow Eyebat",
+    "colour" : "Nicelands",
+    "type" : "Nicelands Creature",
+    "description" : "At the start of your turn, you heal 1 Hit Point for each different Landscape type you control. (Can't go over 25.)",
+    "values" : {
+        "cost" : 1,
+        "attack" : 1,
+        "defense" : 4
+    }

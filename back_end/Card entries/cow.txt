@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Cow",
+    "colour" : "Rainbow",
+    "type" : "Rainbow Creature",
+    "description" : "Moo.",
+    "values" : {
+        "cost" : 0,
+        "attack" : 1,
+        "defense" : 5
+    }

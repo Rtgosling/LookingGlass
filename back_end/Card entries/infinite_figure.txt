@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Infinite Figure",
+    "colour" : "Useless Swamp",
+    "type" : "Useless Swamp Creature",
+    "description" : "Discard a card >>> Deal 1 Damage to another Creature in this Lane. (Use any number of times during each of your turns.)",
+    "values" : {
+        "cost" : 1,
+        "attack" : 1,
+        "defense" : 6
+    }

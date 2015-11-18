@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Pants of Awesome",
+    "colour" : "Blue Plains",
+    "type" : "Blue Plains Spell",
+    "description" : "Move target Creature you control to an empty Blue Plains Landscape you control, and then draw a card.",
+    "values" : {
+        "cost" : 1,
+        "attack" : -1,
+        "defense" : -1
+    }

@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Albino Eyebat",
+    "colour" : "Nicelands",
+    "type" : "Nicelands Creature",
+    "description" : "While Albino Eyebat has exactly 2 Damage on it, it has +2 ATK",
+    "values" : {
+        "cost" : 1,
+        "attack" : 2,
+        "defense" : 7
+    }

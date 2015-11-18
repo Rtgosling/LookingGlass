@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Steakchop",
+    "colour" : "Useless Swamp",
+    "type" : "Usless Swamp Creature",
+    "description" : "At the start of your turn, discard 2 cards or destroy Steakchop. (Discard after your free draw.)",
+    "values" : {
+        "cost" : 1,
+        "attack" : 4,
+        "defense" : 4
+    }

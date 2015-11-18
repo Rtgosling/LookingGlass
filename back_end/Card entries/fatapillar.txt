@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Fatapillar",
+    "colour" : "Useless Swamp",
+    "type" : "Useless Swamp Creature",
+    "description" : "+2 ATK for every 5 cards in your discard pile.",
+    "values" : {
+        "cost" : 2,
+        "attack" : 0,
+        "defense" : 3
+    }

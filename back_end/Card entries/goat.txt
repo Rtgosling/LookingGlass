@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Goat",
+    "colour" : "Rainbow",
+    "type" : "Rainbow Creature",
+    "description" : "When Goat enters play, if it replaced a Creature, draw a card.",
+    "values" : {
+        "cost" : 0,
+        "attack" : 1,
+        "defense" : 4
+    }

@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Brief Power",
+    "colour" : "Rainbow",
+    "type" : "Rainbow Spell",
+    "description" : "Target Useless Swamp Creature you control has +2 ATK this turn.",
+    "values" : {
+        "cost" : 0,
+        "attack" : -1,
+        "defense" : -1
+    }

@@ -1,0 +1,10 @@
+    "id" : "",
+    "name" : "Angel Heart",
+    "colour" : "Rainbow",
+    "type" : "Rainbow Heart",
+    "description" : "While Angel Heart has exactly 3 Damage on it, it has +3 ATK.",
+    "values" : {
+        "cost" : 0,
+        "attack" : 0,
+        "defense" : 7
+    }
